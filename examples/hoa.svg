@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140">
+  <title>Hoa bốn cánh</title>
+  <g transform="translate(80 60)" fill="none" stroke="#172535" stroke-width="2.4" stroke-linejoin="round">
+    <path d="M -3 -11 C -34 -58 34 -58 3 -11 Z"/>
+    <path d="M -3 -11 C -34 -58 34 -58 3 -11 Z" transform="rotate(90)"/>
+    <path d="M -3 -11 C -34 -58 34 -58 3 -11 Z" transform="rotate(180)"/>
+    <path d="M -3 -11 C -34 -58 34 -58 3 -11 Z" transform="rotate(270)"/>
+    <circle r="9"/>
+    <path d="M 5 42 Q 12 61 4 73 M 9 60 Q 16 46 28 48 Q 24 59 9 60"/>
+  </g>
+</svg>
